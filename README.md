@@ -2,8 +2,7 @@
 
 # Tarjeta Digital - Reto #4
 
-Este proyecto es parte del reto #4 del curso, donde el objetivo es desarrollar una tarjeta digital utilizando ReactJs y comprender la interacción entre componentes dentro de una arquitectura básica.
-
+El objetivo es desarrollar una tarjeta digital utilizando ReactJs 
 ## Descripción
 
 El proyecto consiste en la creación de una tarjeta digital con la informacion propia
