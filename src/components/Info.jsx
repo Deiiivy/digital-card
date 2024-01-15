@@ -1,6 +1,7 @@
 import React from 'react'
 import meImage from '../images/me.jpeg'
 import 'boxicons'
+import '../styles/info.css'
 
 function Info() {
   return (

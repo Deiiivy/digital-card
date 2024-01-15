@@ -1,5 +1,5 @@
 import React from 'react'
-
+import '../styles/interest.css'
 
 function Interest() {
   return (

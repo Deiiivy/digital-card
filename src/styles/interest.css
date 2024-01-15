@@ -1,0 +1,11 @@
+
+.interest-container {
+    margin: 20px;
+    color: #fff;
+    margin-top: 1px;
+}
+
+.list-interest li {
+    list-style: none;
+    margin-bottom: 9px;
+}

@@ -1,0 +1,14 @@
+.container-about {
+    margin: 20px;
+    color: #fff;
+}
+
+
+.container-about h2 {
+    font-weight: bold;
+    color: #fff;
+}
+
+.container-about p {
+    letter-spacing: 1px;
+}

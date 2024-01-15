@@ -1,0 +1,62 @@
+
+.image{
+    width: 100%;
+}
+
+.name {
+    font-weight: bold;
+    color: #fff;
+}
+
+.info-container h1 {
+    margin-bottom: 1px;
+}
+
+.info-container h3 {
+    color: rgba(255, 166, 0, 0.527);
+}
+
+.social-media {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.button {
+    border-radius: 10px;
+    padding: 6px 18px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none; 
+}
+
+.email {
+    background-color: #fff;
+    color: #374151;
+    gap: 10px;
+}
+
+.email:hover {
+    color: white;
+    background-color: #374151;
+}
+
+.linkedin {
+    color: white;
+    background-color: #5093E2;
+}
+
+.linkedin:hover {
+    background-color: #1b589e;
+}
